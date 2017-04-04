@@ -1,6 +1,4 @@
-package edu.matc.threaddemo;
-
-import org.apache.log4j.Logger;
+package edu.matc.week10;
 
 /**
  * Created by tolly on 4/3/2017.

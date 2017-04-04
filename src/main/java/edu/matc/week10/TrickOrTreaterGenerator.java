@@ -1,10 +1,8 @@
-package edu.matc.threaddemo;
+package edu.matc.week10;
 
 import org.apache.log4j.Logger;
 
-import java.util.ArrayList;
 import java.util.Date;
-import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 /**
